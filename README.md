@@ -9,7 +9,7 @@
 
 Deploy to heroku.
 <p align="center">
-<a href="https://github.com/Nobada/Adv-Auto-Filter-Bot-V2">
+<a href="https://github.com/Nobada/af-deploy-script">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
