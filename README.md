@@ -7,7 +7,7 @@
 
 ## Heroku
 
-Deploy to heroku.
+Deploy to heroku. 
 <p align="center">
 <a href="https://github.com/Nobada/af-deploy-script">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
